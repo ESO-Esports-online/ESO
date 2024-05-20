@@ -8,7 +8,7 @@ td, th {
 }
 th {
   background-color: #64022e;
-  color: #fff;
+  color: #000000;
   font-weight: bold;
 }
 tr:hover {background-color: coral;}
