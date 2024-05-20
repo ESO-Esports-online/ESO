@@ -8,14 +8,14 @@ td, th {
 }
 th {
   background-color: #333;
-  color: #fff;
+  color: #64022e;
   font-weight: bold;
 }
 tr:hover {
   background-color: #f5f5f5;
 }
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #fdcde3;
 }
 @media (max-width: 768px) {
   table {
